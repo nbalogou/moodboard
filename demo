@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  text-align:center;
+  color:#df9fbf;
+  font-family:didot;
+} 	
+h3 { 
+ text-align:center; 
+ color:#df9fbf;
+ font-family:didot;  
+} 
+</style>
+</head>
+<body style="background-color:black;">
+
+<h1 style= "font-family:didot;">Moodboard</h1>
+<h3 style="font-family:didot;"><i>You</i>set the mood,<i>we</i>do the rest.</h3>
+<br>
+
+</body>
+</html>
+
+
+																																										
