@@ -20,7 +20,7 @@ h3 {
 <h1 style= "font-family:didot;">Moodboard</h1>
 <h3 style="font-family:didot;"><i>You</i> set the mood, <i>we</i>do the rest.</h3>
 <br>
-<img src="neck.png" style="width:600px;height:600px;">
+<img src="neck.png" alt="Woman's Neck" style="width:600px;height:600px;">
 
 </body>
 </html>
